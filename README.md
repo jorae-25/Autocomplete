@@ -6,6 +6,7 @@ frequent word (i.e the one that has apppeared the most times) in the map that ha
 
 To run the program, run AutoCorrectDemo.java.
 
+
 Example output:
 
 Enter a word, or 'stop' to end: craz
@@ -20,3 +21,17 @@ Best suggestions (order should match):
 
   [crazy]
   
+ 
+ 
+ 
+Enter a word, or 'stop' to end: th
+
+Autocomplete: the
+
+Autocorrect (order might be different):
+
+  [ah, ch, h, ta, the, te, t, th, ti, to, thy, ty, eh, oh]
+  
+Best suggestions (order should match):
+
+  [the, to, thy, th, oh, t, h, ah, ch, eh, ta, te, ti, ty]
